@@ -1,0 +1,59 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Sample Project 1",
+      "description": "This is a sample project description.",
+      "skills": "JavaScript, React",
+      "link": "https://github.com/sample1"
+    },
+    {
+      "id": "2",
+      "title": "Sample Project 2",
+      "description": "Another sample project description.",
+      "skills": "Python, Django",
+      "link": "https://github.com/sample2"
+    },
+    {
+      "id": "09b6",
+      "title": "sujay",
+      "description": "sujay",
+      "skills": "C++",
+      "link": "https://github.com/SUJAYMACHA/matchmaking-app"
+    }
+  ],
+  "users": [
+    {
+      "id": "336d",
+      "username": "vishal",
+      "bio": "asda",
+      "skills": "FPGA Programming",
+      "experienceLevel": "expert",
+      "password": "Vishal@123"
+    },
+    {
+      "id": "d751",
+      "username": "Sujay",
+      "bio": "123",
+      "skills": "HTML/CSS",
+      "experienceLevel": "beginner",
+      "password": "123"
+    }
+  ],
+  "messages": [
+    {
+      "id": "e465",
+      "sender": "vishal",
+      "receiver": "Sujay",
+      "content": "hoiiiiii",
+      "timestamp": "2024-09-15T11:58:36.635Z"
+    },
+    {
+      "id": "6149",
+      "sender": "Sujay",
+      "receiver": "vishal",
+      "content": "bye its working",
+      "timestamp": "2024-09-15T11:58:43.918Z"
+    }
+  ]
+}
